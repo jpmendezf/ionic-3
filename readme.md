@@ -1,6 +1,6 @@
 ﻿# Ionic2-geoloc
 ## Summary
-Find the GPS position where you are and put every 2 seconds a marker on google map. Everything is logged. The position is sent to log-webservice(see my sources on github) on Heroku.
+Find the GPS position where you are and put everya 2 seconds a marker on google map. Everything is logged. The position is sent to log-webservice(see my sources on github) on Heroku.
 ![geoloc](http://patricerolland.free.fr/pic/ionic_geoloc.jpg)
 
 ## Setup
